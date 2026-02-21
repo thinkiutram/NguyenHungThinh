@@ -20,32 +20,29 @@
 			<key>PayloadDescription</key>
 			<string>Cấu hình DNS LocketGold - Nguyễn Hưng Thịnh</string>
 			<key>PayloadDisplayName</key>
-			<string>LocketGold by Nguyễn Hưng Thịnh</string>
+			<string>🛡 Nguyễn Hưng Thịnh DNS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dns.extension.NguyenHungThinh</string>
+			<string>com.apple.dns.network.NguyenHungThinh</string>
 			<key>PayloadType</key>
-			<string>com.apple.dns.proxy.shared</string>
+			<string>com.apple.dns.network</string>
 			<key>PayloadUUID</key>
-			<string>A1B2C3D4-E5F6-7G8H-9I0J-K1L2M3N4O5P6</string>
+			<string>74D01026-B813-4B7C-A5A1-98789A506813</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>⚡️ Nâng cấp LocketGold Premium
-🛡️ DNS bảo mật - Nguyễn Hưng Thịnh</string>
+	<string>⚡️ Nâng cấp LocketGold Premium - Nguyễn Hưng Thịnh</string>
 	<key>PayloadDisplayName</key>
 	<string>🔐 LocketGold by Nguyễn Hưng Thịnh</string>
 	<key>PayloadIdentifier</key>
-	<string>com.hungthinh.locketgold</string>
+	<string>com.hungthinh.locketgold.dns</string>
 	<key>PayloadOrganization</key>
 	<string>Nguyễn Hưng Thịnh ⚡️</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>B2C3D4E5-F6G7-8H9I-0J1K-L2M3N4O5P6Q7</string>
+	<string>6813C8C8-1368-4368-B368-68C81368C813</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
