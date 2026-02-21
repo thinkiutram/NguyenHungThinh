@@ -18,31 +18,31 @@
 				<string>https://dns.nextdns.io/68c813</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Cấu hình DNS LocketGold - Nguyễn Hưng Thịnh</string>
+			<string>Hệ thống DNS LocketGold - Nguyễn Hưng Thịnh</string>
 			<key>PayloadDisplayName</key>
-			<string>🛡 Nguyễn Hưng Thịnh DNS</string>
+			<string>DNS Nguyễn Hưng Thịnh</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dns.network.NguyenHungThinh</string>
+			<string>com.apple.dns.network.HTDNS</string>
 			<key>PayloadType</key>
 			<string>com.apple.dns.network</string>
 			<key>PayloadUUID</key>
-			<string>74D01026-B813-4B7C-A5A1-98789A506813</string>
+			<string>99999999-8888-7777-6666-555544443333</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>⚡️ Nâng cấp LocketGold Premium - Nguyễn Hưng Thịnh</string>
+	<string>Premium Unlocker by Nguyễn Hưng Thịnh</string>
 	<key>PayloadDisplayName</key>
-	<string>🔐 LocketGold by Nguyễn Hưng Thịnh</string>
+	<string>🔐 LocketGold Nguyễn Hưng Thịnh</string>
 	<key>PayloadIdentifier</key>
-	<string>com.hungthinh.locketgold.dns</string>
+	<string>com.hungthinh.locket.premium</string>
 	<key>PayloadOrganization</key>
-	<string>Nguyễn Hưng Thịnh ⚡️</string>
+	<string>Nguyễn Hưng Thịnh</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6813C8C8-1368-4368-B368-68C81368C813</string>
+	<string>11112222-3333-4444-5555-666677778888</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
