@@ -1,1 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>45.90.28.179</string>
+					<string>45.90.30.179</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://dns.nextdns.io/68c813</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>DNS LocketGold Premium - Nguyễn Hưng Thịnh</string>
+			<key>PayloadDisplayName</key>
+			<string>DNS Nguyễn Hưng Thịnh</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dns.network.HTDNS</string>
+			<key>PayloadType</key>
+			<string>com.apple.dns.network</string>
+			<key>PayloadUUID</key>
+			<string>F9A1B2C3-D4E5-4G6H-8I9J-K0L1M2N3O4P5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Cấu hình bởi Nguyễn Hưng Thịnh</string>
+	<key>PayloadDisplayName</key>
+	<string>🔐 LocketGold Nguyễn Hưng Thịnh</string>
+	<key>PayloadIdentifier</key>
+	<string>com.hungthinh.locket.premium</string>
+	<key>PayloadOrganization</key>
+	<string>Nguyễn Hưng Thịnh</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C3D4E5F6-G7H8-4I9J-K0L1-M2N3O4P5Q6R7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
 
