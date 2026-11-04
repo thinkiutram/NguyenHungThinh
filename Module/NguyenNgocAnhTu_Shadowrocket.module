@@ -150,5 +150,6 @@ unfold-response = type=http-response,pattern=^https:\/\/api\.unfold\.app\/v1\/io
 ^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(user-customization-service\/v1\/customize|bootstrap\/v1\/bootstrap)$ header-del if-none-match
 
 [MITM]
-hostname = %APPEND% -redirector*.googlevideo.com, *.googlevideo.com, www.youtube.com, s.youtube.com, youtubei.googleapis.com, spclient.wg.spotify.com, *.spclient.spotify.com, api.revenuecat.com, api.picsart.c*, api.meiease.c*, api-mobile.soundcloud.com, api-account.kinemasters.com, photos.adobe.io, app.algoriddim.com, api.calm.com, api.busuu.com, vsco.co, api.mojo-app.com, widgetsmith.com, mb3admin.com, api.prod.headspace.com, api.funimate.com, lcs-mobile-cops.adobe.io, api.reface.video, api.unfold.app
+[MITM]
+hostname = %APPEND% -redirector*.googlevideo.com, *.googlevideo.com, www.youtube.com, s.youtube.com, youtubei.googleapis.com, spclient.wg.spotify.com, *-spclient.spotify.com, api.revenuecat.com, api.picsart.c*, api.meiease.c*, api-mobile.soundcloud.com, mb3admin.com, api-account.kinemasters.com, photos.adobe.io, lcs-mobile-cops.adobe.io, app.algoriddim.com, api.calm.com, api.busuu.com, api.prod.headspace.com, vsco.co, api.mojo-app.com, widgetsmith.com, api.funimate.com, api.reface.video, api.unfold.app
 enable = true
